@@ -30,7 +30,7 @@
         :key="index"
         :name="joker.name"
         :description="joker.descript"
-        img="/rp-game/assets/cardjoker.png"
+        img="/versus-fight/assets/cardjoker.png"
         @click="
           blockChose === 1
             ? ''

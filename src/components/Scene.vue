@@ -68,17 +68,17 @@ const { isNarrative, isFight, isJokers, isIntro, isVersus, isVersusMode } =
   useGlobal();
 const { setNumberBackground, chosenBackground } = useCharacter();
 
-const bgImage = ref("/rp-game/assets/scene1_background.png");
-const layer1img = ref("/rp-game/assets/scene1_foreground.png");
-const layer2img = ref("/rp-game/assets/scene1_midlayer.png");
+const bgImage = ref("/versus-fight/assets/scene1_background.png");
+const layer1img = ref("/versus-fight/assets/scene1_foreground.png");
+const layer2img = ref("/versus-fight/assets/scene1_midlayer.png");
 
 watch(isVersusMode, (newValue) => {
   if (newValue === true) {
     setNumberBackground();
 
-    bgImage.value = `/rp-game/assets/scene${chosenBackground.value}_background.png`;
-    layer1img.value = `/rp-game/assets/scene${chosenBackground.value}_foreground.png`;
-    layer2img.value = `/rp-game/assets/scene${chosenBackground.value}_midlayer.png`;
+    bgImage.value = `/versus-fight/assets/scene${chosenBackground.value}_background.png`;
+    layer1img.value = `/versus-fight/assets/scene${chosenBackground.value}_foreground.png`;
+    layer2img.value = `/versus-fight/assets/scene${chosenBackground.value}_midlayer.png`;
   }
 });
 </script>

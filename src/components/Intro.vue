@@ -35,7 +35,7 @@ const { toggleNarrative, toggleVersus } = useGlobal();
 const changeBackground = () => {
   if (introRef.value) {
     introRef.value.style.background =
-      'url("/rp-game/assets/versusmodebg3.png") no-repeat center center';
+      'url("/versus-fight/assets/versusmodebg3.png") no-repeat center center';
     introRef.value.style.backgroundSize = "cover";
   }
   showParticles.value = true;
@@ -44,7 +44,7 @@ const changeBackground = () => {
 const resetBackground = () => {
   if (introRef.value) {
     introRef.value.style.background =
-      'url("/rp-game/assets/bgmenu.png") no-repeat center center';
+      'url("/versus-fight/assets/bgmenu.png") no-repeat center center';
     introRef.value.style.backgroundSize = "cover";
   }
   showParticles.value = false;

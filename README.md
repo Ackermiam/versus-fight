@@ -8,7 +8,7 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 
 Simple fight game, just a prototype to learn how to make a game.
 
-Here is the game => [Click here to play](https://ackermiam.github.io/rp-game/)
+Here is the game => [Click here to play](https://ackermiam.github.io/versus-fight/)
 
 I think this is the next features/updates :
 

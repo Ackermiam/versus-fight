@@ -1,139 +1,139 @@
 {
   "character": {
     "name": "Mochi",
-    "img": "/rp-game/assets/mochi.png",
+    "img": "/versus-fight/assets/mochi.png",
     "pv": 100
   },
   "enemies": {
     "Mochi": {
       "name": "Mochi",
-      "img": "/rp-game/assets/mochi.png",
+      "img": "/versus-fight/assets/mochi.png",
       "hp": 100,
       "heal": 20,
       "damage": 20
     },
     "Kentaro": {
       "name": "Kentaro",
-      "img": "/rp-game/assets/Kentaro.png",
+      "img": "/versus-fight/assets/Kentaro.png",
       "hp": 100,
       "heal": 8,
       "damage": 20
     },
     "Tora": {
       "name": "Tora",
-      "img": "/rp-game/assets/Tora.png",
+      "img": "/versus-fight/assets/Tora.png",
       "hp": 85,
       "heal": 8,
       "damage": 20
     },
     "Monk": {
       "name": "Monk",
-      "img": "/rp-game/assets/Monk.png",
+      "img": "/versus-fight/assets/Monk.png",
       "hp": 80,
       "heal": 15,
       "damage": 15
     },
     "Boreal": {
       "name": "Boreal",
-      "img": "/rp-game/assets/holy.png",
+      "img": "/versus-fight/assets/holy.png",
       "hp": 60,
       "heal": 30,
       "damage": 10
     },
     "Wise": {
       "name": "The Wise",
-      "img": "/rp-game/assets/Wise.png",
+      "img": "/versus-fight/assets/Wise.png",
       "hp": 50,
       "heal": 2,
       "damage": 25
     },
     "Heavent": {
       "name": "Maître Heavent",
-      "img": "/rp-game/assets/heavent.png",
+      "img": "/versus-fight/assets/heavent.png",
       "hp": 160,
       "heal": 25,
       "damage": 7
     },
     "Vladeus": {
       "name": "Vladeus",
-      "img": "/rp-game/assets/Vladeus.png",
+      "img": "/versus-fight/assets/Vladeus.png",
       "hp": 40,
       "heal": 10,
       "damage": 30
     },
     "Kasumi": {
       "name": "Kasumi",
-      "img": "/rp-game/assets/Kasumi.png",
+      "img": "/versus-fight/assets/Kasumi.png",
       "hp": 70,
       "heal": 20,
       "damage": 8
     },
     "InnerSun": {
       "name": "InnerSun",
-      "img": "/rp-game/assets/innersun.png",
+      "img": "/versus-fight/assets/innersun.png",
       "hp": 75,
       "heal": 25,
       "damage": 10
     },
     "God": {
       "name": "God",
-      "img": "/rp-game/assets/God.png",
+      "img": "/versus-fight/assets/God.png",
       "hp": 150,
       "heal": 25,
       "damage": 25
     },
     "Esypso": {
       "name": "Esypso",
-      "img": "/rp-game/assets/esypso.png",
+      "img": "/versus-fight/assets/esypso.png",
       "hp": 51,
       "heal": 1,
       "damage": 44
     },
     "BigBoy": {
       "name": "BigBoy",
-      "img": "/rp-game/assets/elbigboss.png",
+      "img": "/versus-fight/assets/elbigboss.png",
       "hp": 180,
       "heal": 5,
       "damage": 5
     },
     "KeroSan": {
       "name": "KeroSan",
-      "img": "/rp-game/assets/kero.png",
+      "img": "/versus-fight/assets/kero.png",
       "hp": 117,
       "heal": 17,
       "damage": 27
     },
     "Manita": {
       "name": "Manita",
-      "img": "/rp-game/assets/manita.png",
+      "img": "/versus-fight/assets/manita.png",
       "hp": 20,
       "heal": 35,
       "damage": 10
     },
     "Kiroshi": {
       "name": "Kiroshi",
-      "img": "/rp-game/assets/Kiroshi.png",
+      "img": "/versus-fight/assets/Kiroshi.png",
       "hp": 75,
       "heal": 14,
       "damage": 14
     },
     "VirginsQueen": {
       "name": "Virgins Queen",
-      "img": "/rp-game/assets/VirginsQueen.png",
+      "img": "/versus-fight/assets/VirginsQueen.png",
       "hp": 45,
       "heal": 25,
       "damage": 25
     },
     "Yankee": {
       "name": "Yankee",
-      "img": "/rp-game/assets/Yankee.png",
+      "img": "/versus-fight/assets/Yankee.png",
       "hp": 50,
       "heal": 10,
       "damage": 30
     },
     "Koharu": {
       "name": "Koharu",
-      "img": "/rp-game/assets/koharu.png",
+      "img": "/versus-fight/assets/koharu.png",
       "hp": 40,
       "heal": 10,
       "damage": 15
