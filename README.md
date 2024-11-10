@@ -20,6 +20,10 @@ I think this is the next features/updates :
 
 # CHANGELOGS
 
+## 0.1.5
+
+> New background
+
 ## 0.1.4
 
 > You can chose your player and your enemy
