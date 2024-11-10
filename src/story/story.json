@@ -164,6 +164,11 @@
       "background": "scene5_background.png",
       "foreground": "scene5_foreground.png",
       "midlayer": "scene5_midlayer.png"
+    },
+    "6": {
+      "background": "scene6_background.png",
+      "foreground": "scene6_foreground.png",
+      "midlayer": "scene6_midlayer.png"
     }
   }
 }
